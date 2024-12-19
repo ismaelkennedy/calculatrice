@@ -5,7 +5,7 @@ body{
 }
 
 .calculatrice_container{
-    background-color: black;
+    background: url("./purple.jpg");
     color: white;
     display : flex;
     align-items: center;
